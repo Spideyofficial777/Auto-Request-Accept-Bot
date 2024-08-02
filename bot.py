@@ -2,7 +2,7 @@ import os
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message, User, ChatJoinRequest
 
-pr0fess0r_99=Client(
+@Spidey_official_777=Client(
     "★彡[ʙᴏᴛ ꜱᴛᴀʀᴛᴇᴅ ᴘʟᴇᴀꜱᴇ ꜱᴜʙꜱᴄʀɪʙᴇ ꜱᴘɪᴅᴇʏᴏꜰꜰɪᴄɪᴀʟ]彡★",
     bot_token = os.environ["7236731343:AAFlbv9sD-yU2orOehSoUZZPV0UD56eTLls"],
     api_id = int(os.environ["28519661"]),
