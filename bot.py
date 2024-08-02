@@ -34,4 +34,4 @@ async def autoapprove(client: pr0fess0r_99, message: ChatJoinRequest):
         await client.send_message(chat_id=chat.id, text=TEXT.format(mention=user.mention, title=chat.title))       
 
 print("★彡[ʙᴏᴛ ꜱᴛᴀʀᴛᴇᴅ ᴘʟᴇᴀꜱᴇ ꜱᴜʙꜱᴄʀɪʙᴇ ꜱᴘɪᴅᴇʏᴏꜰꜰɪᴄɪᴀʟ]彡★")
-pr0fess0r_99.run()
+@SPIDEY_OFFICIAL_777.run()
